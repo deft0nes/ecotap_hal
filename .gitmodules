@@ -1,3 +1,6 @@
 [submodule "external_libraries/renesas/fsp"]
 	path = external_libraries/renesas/fsp
 	url = https://github.com/renesas/fsp.git
+[submodule "external_libraries/arm/cmsis5"]
+	path = external_libraries/arm/cmsis5
+	url = https://github.com/ARM-software/CMSIS_5.git
