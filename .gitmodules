@@ -1,0 +1,3 @@
+[submodule "fsp"]
+	path = fsp
+	url = https://github.com/renesas/fsp.git
